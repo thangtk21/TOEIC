@@ -1,0 +1,180 @@
+itinerary: lịch trình
+againts: chống lại, đối với
+except: ngoại trừ
+brochure: tờ rơi
+speech: bài diễn thuyết
+
+warehouse: nhà kho
+effect: tác động, hiệu lực
+expenses: chi phí
+technical: kỹ thuật
+concert: buổi hoà nhạc
+
+property: bất động sản, nhà đất
+innovative: đổi mới
+downtown: trung tâm thành phố
+duty: nhiệm vụ
+openning = vacancy: vị trí trống
+
+agent: người đại diện
+inquiry: câu hỏi
+recognize: công nhận
+agency: đại lý
+no longer: không còn nữa
+
+situation: tình huống
+host: tổ chức
+merchandise: hàng hoá
+destination: điểm đến
+manual: sách hướng dẫn (guide)
+
+appliance: thiết bị
+transfer: (v) chuyển
+implement: ban hành
+extensive: trên phạm vi rộng, hiểu biết rộng, sâu rộng...
+take advantage of: tận dụng, lợi dụng
+
+leadership: sự lãnh đạo
+beverage: đồ uống
+merger(n) / merge(v): sự sáp nhập / sáp nhập
+brief: ngắn gọn
+shipment: lô hàng, chuyến hàng
+
+revenue: doanh thu
+promote: thăng chức
+exclusive: độc quyền, riêng, đặc biệt
+plant: nhà máy
+alternative: sự thay thế
+
+due: đến hạn, đến kỳ hạn
+overseas: ở nước ngoài
+cash: tiền mặt
+thorough: kỹ lưỡng
+accommodation: chỗ ở
+
+instructor: ng hướng dẫn
+colleague: đồng nghiệp
+collection: bộ sưu tập
+taste (n)(v): mùi vị, nếm mùi vị
+horno: vinh danh, vinh dự
+
+route: lộ trình,tuyến đường / routing: định tuyến
+authorize: uỷ quyền
+real estate: BDS
+deal with: làm việc với
+address (v): giải quyết
+
+mayor: thị trưởng
+audience: khán giả
+dining: ăn uống
+exact: chính xác
+extremely: cực kỳ, vô cùng
+
+challenge: thách thức
+tourism: du lịch
+accommodate: đáp ứng/chứa được
+decade: thập kỷ
+patient: bệnh nhân
+
+prevent: ngăn, ngăn chặn
+assign: chỉ định
+establish = found: thành lập, thiết lập
+expire: hết hạn
+occur: xảy ra
+
+summary: bảng tóm tắt
+concerning = about
+traditional: truyền thống
+identification: CMT
+affordable: giá cả phải chăng
+
+specialize in: chuyên về
+familiar: quen thuộc
+reputation: danh tiếng
+otherwise: khác, ngược lại
+ingredient: thành phần
+
+cover letter: thư xin việc
+stock: hàng hoá
+enhance: nâng cao, đề cao, tăng cường
+accompany: đi kèm
+negotiate: đàm phán
+
+shuttle: xe trung chuyển
+ahead: phía trước
+accurate: chính xác
+present (a): có mặt
+board: lên (tàu, xe bus)
+
+renovate: tân trang
+consulting: việc tư vấn
+warranty(n): bảo hành
+effective: hiệu quả
+whether: liệu, bất kể
+
+potential: có tiềm năng
+recall: thu hồi
+agricultural: nông nghiệp
+license = permit: giấy phép
+assess: đánh giá
+
+analyst: nhà phân tích
+ideal(a): lý tưởng
+promptly: ngay lập tức, nhanh chóng
+achieve (v): đạt được
+productivity: năng suất
+
+reasonable: hợp lý
+exceed (v): quá, vượt quá
+outstanding: tuyệt vời, xuất sắc
+reliable: đáng tin cậy
+examine: kiểm tra
+
+equip: trang bị
+creative: sáng tạo
+figure: con số
+assemble: lắp ráp, tập hợp
+gather: thu thập, tập hợp
+
+recipient: người nhận
+rarely: hiếm khi
+acquire: mua lại, có được
+willing: sẵn lòng
+moreover: hơn nữa
+
+outline: vạch ra
+baggage: hành lý
+lobby: tiền sảnh
+shift: ca làm việc
+whereas: trong khi
+
+comprehensive: toàn diện
+dessert: món tráng miệng
+plant: cái cây
+disappoint: gây thất vọng
+sign: bảng hiệu/dấu hiệu
+
+loyal: trung thành
+furthermore: hơn nữa
+luggage: hành lý 
+mostly: hầu hêt
+appoint: bổ nhiệm
+
+trash: rác
+interesting: thú vị
+interested: quan tâm
+generous: hào phóng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
