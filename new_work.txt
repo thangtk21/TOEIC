@@ -168,7 +168,11 @@ nevertheless: tuy nhiên
 
 hardly: hầu như không
 broad: rộng
+sincerely: chân thành
+paragraph: đoạn văn
+state: nói, chỉ ra
 
+executive: chấp hành, người điều hành
 
 
 
