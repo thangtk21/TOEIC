@@ -164,8 +164,10 @@ trash: rác
 interesting: thú vị
 interested: quan tâm
 generous: hào phóng
+nevertheless: tuy nhiên
 
-
+hardly: hầu như không
+broad: rộng
 
 
 
