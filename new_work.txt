@@ -173,6 +173,72 @@ paragraph: đoạn văn
 state: nói, chỉ ra
 
 executive: chấp hành, người điều hành
+offer: khuyến mãi
+brand: thương hiệu
+intend: dự định
+various(a): khác nhau, đa dạng
+
+section: phần
+association: hiệp hội
+such: như vậy
+aware of: biết, nhận thức
+recipe: công thức nấu ăn
+
+chief: trưởng phòng
+matter: vấn đề
+commercial: thương mại
+rate: tỉ lệ
+grant: tiền trợ cấp
+
+pass: thẻ
+newsletter: thư tin tức
+society: hiệp hội
+perform: thực hiện
+official: quan chức
+
+district: khu vực
+via: bằng
+toward: hướng về, đối với
+sponsor: nhà tài trợ
+appropriate: phù hợp
+as well: cũng
+
+improve: cải thiện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
